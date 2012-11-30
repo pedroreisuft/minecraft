@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="MPC/src/minecraft_server/|MPC/src/minecraft/|MPC/temp/src/minecraft_server/|MPC/temp/src/minecraft/|MPC/conf/patches/" kind="src" path=""/>
+	<classpathentry kind="src" path="MPC/conf/patches"/>
+	<classpathentry kind="src" path="MPC/src/minecraft"/>
+	<classpathentry kind="src" path="MPC/src/minecraft_server"/>
+	<classpathentry kind="src" path="MPC/temp/src/minecraft"/>
+	<classpathentry kind="src" path="MPC/temp/src/minecraft_server"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="MPC/bin/minecraft_server"/>
+</classpath>

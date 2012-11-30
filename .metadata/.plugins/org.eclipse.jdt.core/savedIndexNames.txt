@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+/home/minecraft/Projetos/minecraft/.metadata/.plugins/org.eclipse.jdt.core
+816019551.index
